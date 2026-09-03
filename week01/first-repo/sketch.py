@@ -30,9 +30,9 @@ SEED = 5913          # any integer. Same seed = same image, every time, forever.
 CHAOS = 1.8           # how fast order collapses. 0 = perfect grid. 2 = rubble.
 SQUARE = 60          # size of one square, in svg units
 MARGIN = 60          # breathing room around the grid
-STROKE = "#111111"   # line colour
+STROKE = "#1d4ed8"   # line colour
 BACKGROUND = "#faf8f4"
-STROKE_WIDTH = 1.4
+STROKE_WIDTH = 3.0
 
 OUTPUT = "sketch.svg"
 
